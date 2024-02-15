@@ -1,10 +1,9 @@
 # Hello, Github Community! 👋
 
 ## A bit about me
-- 👨‍🎓 Currently pursuing a degree in Computer Systems
-- 🚀 Learning Fullstack Development
-- 💻 Growing skills in Python and Java
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/cinbrito/)
+I'm currently pursuing a degree in Computer Systems and am enthusiastic about delving into Fullstack Development. My focus is on building proficiency in Python and Java, continuously honing my skills in these languages. The journey of learning and growing in the field of technology is what drives my passion. Please feel free to connect with me and contribute in my projects!🚀💻
+
+<a href="https://www.linkedin.com/in/cinbrito/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 
 <br>
 
